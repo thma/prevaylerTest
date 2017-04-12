@@ -1,5 +1,5 @@
 # prevaylerTest
-playing around with the baisc ideas of the legendary http://prevayler.org/ project.
+playing around with the basic ideas of the legendary http://prevayler.org/ project.
 
 Many moons ago I wrote a prevayler backend to the Apache OJB O/R mapping tool.  
 
